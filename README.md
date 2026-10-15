@@ -2,6 +2,6 @@
 
 meow
 
-I code Java and C :3
+I code C and Java :3
 
-i dunno how to make this look cool, i have paws
+i dunno how to make this look cool, but i have paws
